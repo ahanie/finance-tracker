@@ -13,10 +13,12 @@ gem 'rails', '~> 5.1.4'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem "stock_quote"
 gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '3.1.6'
 gem 'bootstrap-will_paginate', '1.0.0'
 gem 'jquery-rails'
+gem 'jquery-ui-rails'
 gem 'rails-controller-testing'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
